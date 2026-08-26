@@ -157,6 +157,6 @@ There are several improvements I would like to add in the future:
 
 👨‍💻 Author
 
-Satyam Kumar
+Nirgun K
 
 Computer Vision | Machine Learning | AI
